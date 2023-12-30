@@ -129,6 +129,7 @@
   },
   "defaultProject": "tesla-custom-order-process-clone",
   "cli": {
-    "defaultCollection": "@ngrx/schematics"
+    "defaultCollection": "@ngrx/schematics",
+    "analytics": "b0594bd1-d9a8-4b13-b4e6-0e4af3253cd8"
   }
 }
